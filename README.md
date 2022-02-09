@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karlgusta
-- 👀 I’m interested in  PHP | JavaScript | TypeScript
+- 👀 I’m interested in JavaScript | TypeScript | PHP
 - 🌱 I’m continuously learning 
 - 💞️ I’m looking to collaborate on Open source Projects
 - 📫 How to reach me: https://linktr.ee/Karlgusta
