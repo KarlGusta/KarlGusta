@@ -1,4 +1,4 @@
-Hi 👋 My name is Annoh Karlgusta
+Hello 👋 My name is Annoh Karlgusta
 ================================
 
 Software Engineer
