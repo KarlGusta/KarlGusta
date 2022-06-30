@@ -4,7 +4,7 @@ Hello 👋 My name is Annoh Karlgusta
 Software Engineer
 -----------------
 
-With a passion for software engineering, I am a technical researcher, technical writer, software engineer, and open-source enthusiast. I'm committed to becoming a valued member of whatever team I'm a part of, and I believe in the power of a united front. If a member of the team requires assistance with a task, I am happy to jump in and help with whatever is needed. Earning others' trust, providing results, learning, and being curious are all strengths. Core Strengths: React.js, Git, Node, Dependency Injection. Experience with: Express.js, Vue.js, Postman, AWS, Bootstrap 4, MongoDB, Pandas, jQuery, Unix.
+I am a technical researcher, technical writer, and open-source enthusiast.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [annoh.karlgusta.esimit@gmail.com](mailto:annoh.karlgusta.esimit@gmail.com)
