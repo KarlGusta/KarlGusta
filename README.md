@@ -4,7 +4,7 @@ Hello 👋 My name is Annoh Karlgusta
 Software Engineer
 -----------------
 
-I am a technical researcher, technical writer, and open-source enthusiast. Contributor @freeCodeCamp
+I am a software engineer, technical researcher, technical writer, and open-source enthusiast. Contributor @freeCodeCamp
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [annoh.karlgusta.esimit@gmail.com](mailto:annoh.karlgusta.esimit@gmail.com)
