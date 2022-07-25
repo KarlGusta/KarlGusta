@@ -4,11 +4,11 @@ Hello 👋 My name is Annoh Karlgusta
 Software Engineer
 -----------------
 
-I am a software engineer, technical researcher, technical writer, and open-source enthusiast. Technical writer @freeCodeCamp, Ambassador @UOPeople
+I am a software engineer, technical researcher, technical writer, and open-source enthusiast. Technical writer @freeCodeCamp, Ambassador @UOPeople. I love Cycling to be DevFit.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [annoh.karlgusta@gmail.com](mailto:annoh.karlgusta@gmail.com)
-* 🚀  I'm currently working on [Sivu](https://github.com/Sivu-Tutorials) and [LinkFree](http://linkfree.eddiehub.org/)
+* 🚀  I'm currently working on [Sivu](https://beta.sivu.tk/) and [LinkFree](http://linkfree.eddiehub.org/)
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on Open-source projects.
 
