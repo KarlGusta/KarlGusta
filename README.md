@@ -8,7 +8,7 @@ I am a software engineer, technical researcher, technical writer, and open-sourc
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [annoh.karlgusta@gmail.com](mailto:annoh.karlgusta@gmail.com)
-* 🚀  I'm currently working on [Sivu](https://beta.sivu.tk/) and [LinkFree](http://linkfree.eddiehub.org/)
+* 🚀  I'm currently working on [Sivu](https://beta.sivu.tk/), [LinkFree](http://linkfree.eddiehub.org/), and [OSHMIS](https://github.com/KarlGusta/oshmis)
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on Open-source projects.
 
