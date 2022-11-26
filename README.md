@@ -6,9 +6,9 @@ Software Engineer
 
 I am a software engineer, technical writer, and open-source contributor. Technical writer @freeCodeCamp. I love Cycling to be DevFit.
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  I'm based on Earth
 * ✉️  You can contact me at [annoh.karlgusta@gmail.com](mailto:annoh.karlgusta@gmail.com)
-* 🚀  I'm currently working on [Sivu](https://beta.sivu.tk/), [LinkFree](http://linkfree.eddiehub.org/), and [OSHMIS](https://github.com/KarlGusta/oshmis)
+* 🚀  I'm currently working on [OSHMIS](https://github.com/KarlGusta/oshmis)
 * 🧠  I'm learning daily
 * 🤝  I'm open to collaborating on Open-source projects.
 
