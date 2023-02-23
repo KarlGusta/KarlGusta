@@ -9,7 +9,7 @@ weareremoteokay.com
 
 * 🌍  I'm based on Earth
 * ✉️  You can contact me at [annoh.karlgusta@gmail.com](mailto:annoh.karlgusta@gmail.com)
-* 🚀  I'm currently working on [We Are Remote Okay](www.weareremoteokay.com)
+* 🚀  I'm currently working on [We Are Remote Okay](href="https://weareremoteokay.com/")
 * 🧠  I'm learning daily
 * 🤝  I'm open to collaborating on writing projects.
 
