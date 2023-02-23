@@ -1,16 +1,17 @@
-Hello 👋 My name is Annoh Karlgusta
+Hello 👋 My name is Karlgusta
 ================================
 
-Software Engineer
+Senior Software Engineer
 -----------------
 
-I am a sr. software engineer @CGL, technical writer, and open-source contributor. Technical writer @freeCodeCamp. I love Cycling to be DevFit.
+I write about tech, money, and health by sharing advice from millionaires, expert authors, and myself. Building 
+weareremoteokay.com
 
 * 🌍  I'm based on Earth
 * ✉️  You can contact me at [annoh.karlgusta@gmail.com](mailto:annoh.karlgusta@gmail.com)
-* 🚀  I'm currently working on [OSHMIS](https://github.com/KarlGusta/oshmis)
+* 🚀  I'm currently working on [We Are Remote Okay](www.weareremoteokay.com)
 * 🧠  I'm learning daily
-* 🤝  I'm open to collaborating on Open-source projects.
+* 🤝  I'm open to collaborating on writing projects.
 
 <a href="https://www.twitter.com/annoh_karlgusta" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/annoh_karlgusta?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
