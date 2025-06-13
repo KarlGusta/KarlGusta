@@ -4,7 +4,7 @@
 
 ---
 
-I'm a passionate software engineer focused on building real-world solutions that combine **AI**, **Web3**, and **modern cloud infrastructure**. I’ve worked on everything from fintech apps to AI-powered platforms, DeFi projects, NFT marketplaces, and data-driven backend systems.
+I'm a passionate software engineer focused on building real-world solutions that combine **AI**, **Web3**, and **modern cloud infrastructure**. I’ve worked on everything from fintech apps to AI-powered platforms, DeFi projects, Bitcoin Lightning projects, and data-driven backend systems.
 
 ### 🔧 Tech Stack
 
@@ -32,7 +32,7 @@ Docker • Kubernetes • AWS • GitHub Actions • CI/CD • Railway • Verce
 - **[Buy Me a Coffee with Bitcoin](https://github.com/your-username/buymeacoffee-bitcoin)** – A fully open-source Web3 tipping platform  
 - **Rover Gigs** – A remote job board using React, Node.js, and AWS  
 - **Krypt** – A Web3 crypto transfer dApp built with Solidity and React  
-- **Huruma HMS** – Hospital Management System (ASP.NET Core + MySQL)  
+- **Huruma HMS** – Hospital Management System (PHP + MySQL)  
 - ...and many more on my GitHub!
 
 ---
