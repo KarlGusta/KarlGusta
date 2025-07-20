@@ -1,6 +1,6 @@
 ### Hi there, I'm Esimit Karlgusta 👋
 
-💻 Full-Stack & Blockchain Engineer | 🧠 AI/ML Developer | 🌍 Open Source Contributor
+💻 Full-Stack Engineer | 🧠 AI/ML Developer | 🌍 Open Source Contributor
 
 ---
 
