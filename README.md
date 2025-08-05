@@ -53,7 +53,18 @@ Docker • Kubernetes • AWS • GitHub Actions • CI/CD • Railway • Verce
 
 ---
 
-_“Code is a tool to bring ideas to life. I build with purpose.”_
+### 💖 Support My Open Source Work
+
+If you find my projects valuable or learn something from my code, consider supporting me to keep building and maintaining open-source tools.
+
+* 👉 **[Sponsor Me on GitHub](https://github.com/sponsors/KarlGusta)**
+  Your sponsorship helps me dedicate more time to community projects and educational content.
+
+Thank you for your support! 🙌
+
+---
+
+> *"Code is a tool to bring ideas to life. I build with purpose — and with your support, I build even more."*
 
 Thanks for stopping by! ⭐  
 
