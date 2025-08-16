@@ -29,7 +29,7 @@ Docker • Kubernetes • AWS • GitHub Actions • CI/CD • Railway • Verce
 ---
 
 ### 🚀 Projects
-- **[Buy Me a Coffee with Bitcoin]** – A fully open-source Web3 tipping platform  
+- **Buy Me a Coffee with Bitcoin** – A fully open-source Web3 tipping platform  
 - **Rover Gigs** – A remote job board using React, Node.js, and AWS  
 - **Krypt** – A Web3 crypto transfer dApp built with Solidity and React  
 - **Huruma HMS** – Hospital Management System (PHP + MySQL)  
