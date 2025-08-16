@@ -8,11 +8,11 @@ I'm a passionate software engineer focused on building real-world solutions that
 
 ### 🔧 Tech Stack
 
-**Frontend**: React • Next.js • Tailwind CSS
-**Backend**: Node.js • Express • FastAPI • Django • PHP • Ruby
-**Database**: MongoDB • MySQL • PostgreSQL • Firebase • Redis
-**AI/ML**: TensorFlow • PyTorch • Hugging Face • OpenAI API
-**DevOps & Cloud**: Docker • Kubernetes • AWS • GitHub Actions • Vercel • Netlify
+- **Frontend**: React • Next.js • Tailwind CSS
+- **Backend**: Node.js • Express • FastAPI • Django • PHP • Ruby
+- **Database**: MongoDB • MySQL • PostgreSQL • Firebase • Redis
+- **AI/ML**: TensorFlow • PyTorch • Hugging Face • OpenAI API
+- **DevOps & Cloud**: Docker • Kubernetes • AWS • GitHub Actions • Vercel • Netlify
 
 ---
 
