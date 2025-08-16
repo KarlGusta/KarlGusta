@@ -9,10 +9,10 @@ I'm a passionate software engineer focused on building real-world solutions that
 ### 🔧 Tech Stack
 
 **Frontend:**  
-React • Next.js • Tailwind CSS • Vue.js • Angular
+React • Next.js • Tailwind CSS • HTML • JavaScript
 
 **Backend:**  
-Node.js • Express • FastAPI • Django • Golang • PHP • Rust
+Node.js • Express • FastAPI • PHP
 
 **Blockchain:**  
 Solidity • Hardhat • Ethers.js • Web3.js • Chainlink • IPFS • The Graph
