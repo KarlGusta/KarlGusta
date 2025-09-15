@@ -17,17 +17,14 @@ I'm a passionate software engineer focused on building real-world solutions that
 ---
 
 ### 🚀 Projects
-- **Buy Me a Coffee with Bitcoin** – A fully open-source Web3 tipping platform  
-- **Rover Gigs** – A remote job board using React, Node.js, and AWS  
-- **Krypt** – A Web3 crypto transfer dApp built with Solidity and React  
-- **Huruma HMS** – Hospital Management System (PHP + MySQL)  
+- [**Sassypack - MERN SaaS Starter Kit**](https://karlgusta.gumroad.com/l/mlixgb) – A ready-to-use MERN starter kit with authentication, landing page, and styled components (cards, buttons, inputs). Perfect for building and launching SaaS projects quickly.  
 - ...and many more on my GitHub!
 
 ---
 
 ### 📫 Let’s Connect
 
-- Twitter: [@thekarlesi](https://twitter.com/thekarlesi)
+- Twitter: [@thekarlesi](https://x.com/esimitkarlgusta)
 - Blog: [My Writing on Dev.to](https://www.dev.to/thekarlesi)
 
 ---
