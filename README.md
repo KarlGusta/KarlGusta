@@ -24,7 +24,7 @@ I'm a passionate software engineer focused on building real-world solutions that
 
 ### 📫 Let’s Connect
 
-- Twitter: [@thekarlesi](https://x.com/esimitkarlgusta)
+- Twitter: [@esimitkarlgusta](https://x.com/esimitkarlgusta)
 - Blog: [My Writing on Dev.to](https://www.dev.to/thekarlesi)
 
 ---
