@@ -8,16 +8,17 @@ I'm a passionate software engineer focused on building real-world solutions that
 
 ### 🔧 Tech Stack
 
-- **Frontend**: React • Next.js • Tailwind CSS
-- **Backend**: Node.js • Express • FastAPI • Django • PHP • Ruby
-- **Database**: MongoDB • MySQL • PostgreSQL • Firebase • Redis
-- **AI/ML**: TensorFlow • PyTorch • Hugging Face • OpenAI API
-- **DevOps & Cloud**: Docker • Kubernetes • AWS • GitHub Actions • Vercel • Netlify
+- **Frontend**: React • Next.js • Tailwind CSS • DaisyUI
+- **Backend**: Node.js • Express • FastAPI •  PHP
+- **Database**: MongoDB • MySQL • Firebase • Redis
+- **AI/ML**: Hugging Face • OpenAI API
+- **DevOps & Cloud**: Docker • Kubernetes • AWS • GitHub Actions • Vercel • Netlify • Render
 
 ---
 
 ### 🚀 Projects
-- [**Sassypack - MERN SaaS Starter Kit**](https://karlgusta.gumroad.com/l/mlixgb) – A ready-to-use MERN starter kit with authentication, landing page, and styled components (cards, buttons, inputs). Perfect for building and launching SaaS projects quickly.  
+- [**Sassypack - MERN SaaS Starter Kit**](https://karlgusta.gumroad.com/l/mlixgb) – A ready-to-use MERN starter kit with authentication, landing page, and styled components (cards, buttons, inputs). Perfect for building and launching SaaS projects quickly.
+- [**Collab Tower**](https://collabtower.com/) - An app to connect Brands to Influencers.
 - ...and many more on my GitHub!
 
 ---
