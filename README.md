@@ -62,21 +62,22 @@ Live Product: https://furnishlyai.collabtower.com/
 
 ---
 
-### ⚡ Zero to SaaS
+### Zero to SaaS (Next.js Course)
 
-A practical build in public project focused on taking an idea from concept to a working SaaS product using the MERN stack.
+A practical course teaching how to build and launch a production ready SaaS using Next.js.
 
-**Focus Areas**
-- Idea validation  
-- MVP development  
-- Authentication and payments  
+**What It Covers**
+- SaaS architecture with Next.js  
+- Authentication setup  
+- Database integration  
+- Payments integration  
 - Deployment and scaling  
-- Real world SaaS architecture  
+- Real world SaaS workflow  
 
 **Tech Stack**  
-MERN, Firebase, MongoDB Atlas, Vercel  
+Next.js, Node.js, Database integration, Payment systems 
 
-Live Product: https://zero-to-saas.collabtower.com/
+Course Link: https://zero-to-saas.collabtower.com/
 
 ---
 
