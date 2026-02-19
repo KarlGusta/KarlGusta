@@ -62,6 +62,42 @@ Live Product: https://furnishlyai.collabtower.com/
 
 ---
 
+### ⚡ Zero to SaaS
+
+A practical build in public project focused on taking an idea from concept to a working SaaS product using the MERN stack.
+
+**Focus Areas**
+- Idea validation  
+- MVP development  
+- Authentication and payments  
+- Deployment and scaling  
+- Real world SaaS architecture  
+
+**Tech Stack**  
+MERN, Firebase, MongoDB Atlas, Vercel  
+
+Live Product: https://zero-to-saas.collabtower.com/
+
+---
+
+### 📦 SassyPack
+
+A starter toolkit designed to accelerate SaaS development with pre built authentication, payments, and scalable architecture.
+
+**Core Features**
+- Authentication setup  
+- Payment integration ready  
+- Clean folder structure  
+- Reusable components  
+- Production ready configuration  
+
+**Tech Stack**  
+MERN, DaisyUI, Firebase, MongoDB  
+
+Live Product: https://sassypack.collabtower.com/
+
+---
+
 ## 🧠 Technical Focus
 
 - MERN Stack Development  
