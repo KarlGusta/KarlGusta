@@ -1,4 +1,4 @@
-# Hi, I'm Annoh Karlgusta
+# Hi, I'm Esimit Karlgusta
 
 SaaS founder and MERN stack developer building practical AI and financial automation tools.
 
