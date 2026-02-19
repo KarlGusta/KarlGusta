@@ -23,8 +23,7 @@ A web application that converts raw bank statements into structured, usable fina
 **Tech Stack**  
 MERN, MongoDB Atlas, Firebase Auth, Vercel, AI APIs  
 
-Live Product: https://yourdomain.com  
-Repository: https://github.com/yourusername/bank-statement-converter  
+Live Product: https://bankconvert.collabtower.com/
 
 ---
 
@@ -42,7 +41,7 @@ A lightweight ad fraud detection system that identifies suspicious landing page 
 **Tech Stack**  
 MERN, Express, MongoDB, analytics logic  
 
-Repository: https://github.com/yourusername/ad-click-protection  
+Live Product: https://adpurity.collabtower.com/
 
 ---
 
@@ -60,8 +59,7 @@ An AI powered application that generates interior design ideas and styled room c
 **Tech Stack**  
 MERN, Cloudinary, AI image APIs  
 
-Live Product: https://yourdomain.com  
-Repository: https://github.com/yourusername/ai-house-decor  
+Live Product: https://furnishlyai.collabtower.com/
 
 ---
 
@@ -103,7 +101,5 @@ Platforms:
 
 ## 🔗 Connect
 
-Website: https://yourwebsite.com  
-LinkedIn: https://linkedin.com/in/yourprofile  
-Email: your@email.com  
+Twitter(X): https://x.com/esimitkarlgusta  
 ```
