@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Annoh Karlgusta
 
 SaaS founder and MERN stack developer building practical AI and financial automation tools.
@@ -102,4 +101,3 @@ Platforms:
 ## 🔗 Connect
 
 Twitter(X): https://x.com/esimitkarlgusta  
-```
