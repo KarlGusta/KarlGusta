@@ -1,62 +1,109 @@
-### Hi there, I'm Esimit Karlgusta 👋
+```md
+# Hi, I'm Annoh Karlgusta
 
-💻 Full-Stack Engineer | 🧠 AI/ML Developer | 🧠 Web3 Developer | 🌍 Open Source Contributor
+SaaS founder and MERN stack developer building practical AI and financial automation tools.
 
----
-
-I'm a passionate software engineer focused on building real-world solutions that combine **AI**, **Web3**, and **modern cloud infrastructure**. I’ve worked on everything from fintech apps to AI-powered platforms, DeFi projects, Bitcoin Lightning projects, and data-driven backend systems.
-
-### 🔧 Tech Stack
-
-- **Frontend**: React • Next.js • Tailwind CSS • DaisyUI  
-- **Backend**: Node.js • Express • FastAPI • PHP  
-- **Database**: MongoDB • MySQL • Firebase • Redis  
-- **AI/ML**: Hugging Face • OpenAI API  
-- **DevOps & Cloud**: Docker • Kubernetes • AWS • GitHub Actions • Vercel • Netlify • Render
+I create simple, scalable web applications that solve real business problems using modern JavaScript stacks and AI APIs.
 
 ---
 
-### 🚀 Projects
+## Projects
 
-- [**SassyPack - MERN SaaS Starter Kit**](https://karlgusta.gumroad.com/l/mlixgb)  
-  A ready-to-use MERN starter kit with authentication, payments, landing page, and reusable UI components. Perfect for launching SaaS apps in days, not months.
+### Bank Statement Converter (SaaS)
 
-- [**Collab Tower**](https://collabtower.com/)  
-  A platform connecting brands and influencers for authentic marketing collaborations.
+A web application that converts raw bank statements into structured, usable financial data.
 
-- [**Zero to SaaS**](https://zero-to-saas.collabtower.com/)  
-  A beginner-friendly course teaching developers how to build and launch SaaS apps using Next.js, Tailwind, MongoDB, and Stripe.
+**Core Features**
+- Upload and parse bank statements  
+- Convert PDF to structured JSON / CSV  
+- Clean transaction categorization  
+- Firebase authentication  
+- Scalable cloud backend  
 
-- [**AdPurity**](https://adpurity.collabtower.com/)  
-  Privacy-first analytics for startups and SaaS apps. Designed to provide clear metrics without invasive tracking.
+**Tech Stack**  
+MERN, MongoDB Atlas, Firebase Auth, Vercel, AI APIs  
 
----
-
-### 📫 Let’s Connect
-
-- Twitter: [@esimitkarlgusta](https://x.com/esimitkarlgusta)  
-- Blog: [My Writing on Dev.to](https://www.dev.to/thekarlesi)
+Live Product: https://yourdomain.com  
+Repository: https://github.com/yourusername/bank-statement-converter  
 
 ---
 
-### 🌱 Currently Learning
+### Ad Click Protection Tool
 
-- Kubernetes in production  
-- System Design (Beginner → Advanced)  
-- MongoDB Internals & Performance  
-- CI/CD with GitHub Actions and Helm  
+A lightweight ad fraud detection system that identifies suspicious landing page clicks.
+
+**Core Features**
+- IP tracking  
+- User agent detection  
+- Click frequency analysis  
+- Basic bot behavior filtering  
+- Rule based fraud logic  
+
+**Tech Stack**  
+MERN, Express, MongoDB, analytics logic  
+
+Repository: https://github.com/yourusername/ad-click-protection  
 
 ---
 
-### 💖 Support My Open Source Work
+### 🏠 AI House Decor SaaS
 
-If you find my projects valuable or learn something from my code, consider supporting me to keep building and maintaining open-source tools.
+An AI powered application that generates interior design ideas and styled room concepts.
 
-👉 **[Sponsor Me on GitHub](https://github.com/sponsors/KarlGusta)**  
-Your sponsorship helps me dedicate more time to community projects and educational content.
+**Core Features**
+- AI image generation  
+- Style transformations  
+- Room concept previews  
+- User uploads  
+- Cloud media storage  
+
+**Tech Stack**  
+MERN, Cloudinary, AI image APIs  
+
+Live Product: https://yourdomain.com  
+Repository: https://github.com/yourusername/ai-house-decor  
 
 ---
 
-> *"Code is a tool to bring ideas to life. I build with purpose — and with your support, I build even more."*
+## 🧠 Technical Focus
 
-Thanks for stopping by! ⭐
+- MERN Stack Development  
+- SaaS Architecture  
+- Authentication Systems  
+- Payment Integrations  
+- AI API Integration  
+- MongoDB Data Modeling  
+- Scalable Backend Design  
+
+---
+
+## ✍ Technical Writing
+
+I write about:
+- Building SaaS from scratch  
+- MERN stack fundamentals  
+- API integration  
+- Startup development  
+
+Platforms:
+- Dev.to  
+- Medium  
+- Hashnode  
+
+---
+
+## 📈 Current Goals
+
+- Build scalable SaaS products  
+- Improve financial automation tools  
+- Expand AI driven applications  
+- Grow sustainable online businesses  
+
+---
+
+## 🔗 Connect
+
+Website: https://yourwebsite.com  
+LinkedIn: https://linkedin.com/in/yourprofile  
+Email: your@email.com  
+```
