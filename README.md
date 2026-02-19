@@ -44,7 +44,7 @@ Live Product: https://adpurity.collabtower.com/
 
 ---
 
-### 🏠 AI House Decor SaaS
+### AI House Decor SaaS
 
 An AI powered application that generates interior design ideas and styled room concepts.
 
@@ -81,7 +81,7 @@ Course Link: https://zero-to-saas.collabtower.com/
 
 ---
 
-### 📦 SassyPack
+### SassyPack
 
 A starter toolkit designed to accelerate SaaS development with pre built authentication, payments, and scalable architecture.
 
@@ -99,7 +99,7 @@ Live Product: https://sassypack.collabtower.com/
 
 ---
 
-## 🧠 Technical Focus
+## Technical Focus
 
 - MERN Stack Development  
 - SaaS Architecture  
@@ -111,7 +111,7 @@ Live Product: https://sassypack.collabtower.com/
 
 ---
 
-## ✍ Technical Writing
+## Technical Writing
 
 I write about:
 - Building SaaS from scratch  
@@ -126,7 +126,7 @@ Platforms:
 
 ---
 
-## 📈 Current Goals
+## Current Goals
 
 - Build scalable SaaS products  
 - Improve financial automation tools  
@@ -135,6 +135,6 @@ Platforms:
 
 ---
 
-## 🔗 Connect
+## Connect
 
 Twitter(X): https://x.com/esimitkarlgusta  
