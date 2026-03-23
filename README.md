@@ -1,140 +1,150 @@
-# Hi, I'm Esimit Karlgusta
+# Esimit Karlgusta
 
-SaaS founder and MERN stack developer building practical AI and financial automation tools.
-
-I create simple, scalable web applications that solve real business problems using modern JavaScript stacks and AI APIs.
+SaaS founder and MERN stack developer building practical AI and financial automation tools. I create simple, scalable web applications that solve real business problems using modern JavaScript stacks and AI APIs.
 
 ---
 
 ## Projects
 
-### Bank Statement Converter (SaaS)
+### Bank Statement Converter (SaaS)  
+Converts raw bank statements into structured, usable financial data.  
 
-A web application that converts raw bank statements into structured, usable financial data.
+**Features:** Upload and parse statements, PDF to JSON/CSV, transaction categorization, Firebase authentication, scalable cloud backend  
+**Tech:** MERN, MongoDB Atlas, Firebase Auth, Vercel, AI APIs  
+Live: [bankconvert.collabtower.com](https://bankconvert.collabtower.com/)
 
-**Core Features**
-- Upload and parse bank statements  
-- Convert PDF to structured JSON / CSV  
-- Clean transaction categorization  
-- Firebase authentication  
-- Scalable cloud backend  
+### Ad Click Protection Tool  
+Detects suspicious ad clicks and prevents fraud.  
 
-**Tech Stack**  
-MERN, MongoDB Atlas, Firebase Auth, Vercel, AI APIs  
+**Features:** IP tracking, user agent detection, click frequency analysis, basic bot filtering, rule-based fraud logic  
+**Tech:** MERN, Express, MongoDB, analytics logic  
+Live: [adpurity.collabtower.com](https://adpurity.collabtower.com/)
 
-Live Product: https://bankconvert.collabtower.com/
+### AI House Decor SaaS  
+Generates AI-powered interior design ideas and styled room concepts.  
 
----
+**Features:** AI image generation, style transformations, room previews, user uploads, cloud media storage  
+**Tech:** MERN, Cloudinary, AI image APIs  
+Live: [furnishlyai.collabtower.com](https://furnishlyai.collabtower.com/)
 
-### Ad Click Protection Tool
+### Zero to SaaS (Next.js Course)  
+Practical course for building and launching production-ready SaaS with Next.js.  
 
-A lightweight ad fraud detection system that identifies suspicious landing page clicks.
+**Covers:** SaaS architecture, authentication, database integration, payments, deployment, scaling  
+**Tech:** Next.js, Node.js, Payment systems  
+Course: [zero-to-saas.collabtower.com](https://zero-to-saas.collabtower.com/)
 
-**Core Features**
-- IP tracking  
-- User agent detection  
-- Click frequency analysis  
-- Basic bot behavior filtering  
-- Rule based fraud logic  
+### SassyPack  
+Starter toolkit to accelerate SaaS development with prebuilt authentication, payments, and scalable architecture.  
 
-**Tech Stack**  
-MERN, Express, MongoDB, analytics logic  
+**Features:** Auth setup, payment integration, clean folder structure, reusable components, production-ready config  
+**Tech:** MERN, DaisyUI, Firebase, MongoDB  
+Live: [sassypack.collabtower.com](https://sassypack.collabtower.com/)
 
-Live Product: https://adpurity.collabtower.com/
+### Compound Daily  
+A focused daily habit tracker designed for growth and consistency.  
 
----
+**Features:** PWA support, private data, zero ads, weekly templates, growth heatmaps, visual progress tracking  
+**Tech:** MERN, PWA, Cloud backend  
+Live: [compounddaily.collabtower.com](https://compounddaily.collabtower.com/)
 
-### AI House Decor SaaS
+### Adentra  
+Revenue attribution platform for high-scale advertisers connecting ad spend to actual Stripe revenue.  
 
-An AI powered application that generates interior design ideas and styled room concepts.
+**Features:** Revenue tracking by source, campaign, and customer, full attribution, first-party tracking script, Stripe integration, no feature tiers, secure data  
+**Tech:** MERN, Stripe API, Analytics backend  
+Live: [adentra.collabtower.com](http://adentra.collabtower.com/)
 
-**Core Features**
-- AI image generation  
-- Style transformations  
-- Room concept previews  
-- User uploads  
-- Cloud media storage  
+### Collab Tower  
+Intent-based matching platform connecting startups with creators who share their vision.  
 
-**Tech Stack**  
-MERN, Cloudinary, AI image APIs  
+**Features:** Swipe-based creator matching, email-link chat, engagement and cost calculators, early access matching, verified profiles, priority support  
+**Tech:** MERN, SaaS backend, SassyPack  
+Live: [collabtower.com](https://collabtower.com/)
 
-Live Product: https://furnishlyai.collabtower.com/
+### Hireva  
+ATS resume analysis tool helping job seekers optimize their resumes against specific job postings.  
 
----
+**Features:** Resume keyword analysis, ATS scoring, actionable improvement suggestions, PDF upload, job description matching  
+**Tech:** MERN, SaaS backend, SassyPack  
+Live: [hireva.collabtower.com](https://hireva.collabtower.com/)
 
-### Zero to SaaS (Next.js Course)
+### Kivora  
+AI-powered kitchen design platform that generates realistic 3D remodels from user photos.  
 
-A practical course teaching how to build and launch a production ready SaaS using Next.js.
+**Features:** Instant 3D previews, multiple style options, paid premium quality, download & share designs, team accounts for business plans  
+**Tech:** MERN, AI image APIs, SaaS backend, SassyPack  
+Live: [kivora.collabtower.com](https://kivora.collabtower.com/)
 
-**What It Covers**
-- SaaS architecture with Next.js  
-- Authentication setup  
-- Database integration  
-- Payments integration  
-- Deployment and scaling  
-- Real world SaaS workflow  
+### Nexora  
+Next.js SaaS starter kit providing a production-ready foundation for launching web applications quickly.  
 
-**Tech Stack**  
-Next.js, Node.js, Database integration, Payment systems 
+**Features:** Auth and team management, Stripe billing, product analytics, polished UI kit, SEO-ready blog, lifetime updates, customizable architecture  
+**Tech:** Next.js, MERN, SaaS backend, SassyPack  
+Live: [nexora.collabtower.com](https://nexora.collabtower.com/)
 
-Course Link: https://zero-to-saas.collabtower.com/
+### Operanta  
+On-demand managed execution platform enabling teams to submit tasks to vetted experts without hiring.  
 
----
+**Features:** Flexible pricing, managed delivery, fast turnaround, scalable task execution, expert-reviewed quality, support for web development, AI & automation, UI/UX design, API integrations, full product builds  
+**Tech:** MERN, SaaS backend, SassyPack  
+Live: [operanta.collabtower.com](https://operanta.collabtower.com/)
 
-### SassyPack
+### RoverGigs  
+Remote job board platform providing access to verified high-impact roles worldwide.  
 
-A starter toolkit designed to accelerate SaaS development with pre built authentication, payments, and scalable architecture.
+**Features:** Filter jobs by role, company, or tech, access member-exclusive listings, membership-based remote hiring, verified and vetted remote jobs, global reach, no fluff listings  
+**Tech:** MERN, SaaS backend, SassyPack  
+Live: [rovergigs.collabtower.com](https://rovergigs.collabtower.com/)
 
-**Core Features**
-- Authentication setup  
-- Payment integration ready  
-- Clean folder structure  
-- Reusable components  
-- Production ready configuration  
+### Vidara  
+AI-powered video creation platform for TikTok, Instagram, and YouTube Shorts.  
 
-**Tech Stack**  
-MERN, DaisyUI, Firebase, MongoDB  
+**Features:** Fast AI video creation, automatic script & voice generation, pre-built templates, analytics dashboard, one-click export, full content ownership  
+**Tech:** MERN, AI video APIs, SaaS backend, SassyPack  
+Live: [vidara.collabtower.com](https://vidara.collabtower.com/)
 
-Live Product: https://sassypack.collabtower.com/
+### WP Stability  
+WordPress support platform providing fixes, optimization, and maintenance for sites and eCommerce stores.  
+
+**Features:** Fast response, expert solutions, ongoing maintenance, performance optimization, WooCommerce support, malware removal, site migration, transparent pricing  
+**Tech:** MERN, SaaS backend, SassyPack  
+Live: [wpstability.collabtower.com](https://wpstability.collabtower.com/)
 
 ---
 
 ## Technical Focus
 
 - MERN Stack Development  
-- SaaS Architecture  
-- Authentication Systems  
-- Payment Integrations  
+- SaaS Architecture & Scalable Backend Design  
+- Authentication & Payment Integration  
 - AI API Integration  
+- WordPress & CMS Maintenance  
 - MongoDB Data Modeling  
-- Scalable Backend Design  
 
 ---
 
-## Technical Writing
+## Writing
 
-I write about:
+I share insights on:  
 - Building SaaS from scratch  
 - MERN stack fundamentals  
-- API integration  
+- API integrations  
 - Startup development  
 
-Platforms:
-- Dev.to  
-- Medium  
-- Hashnode  
+Platforms: Dev.to, Medium, Hashnode  
 
 ---
 
-## Current Goals
+## Goals
 
 - Build scalable SaaS products  
 - Improve financial automation tools  
-- Expand AI driven applications  
+- Expand AI-driven applications  
 - Grow sustainable online businesses  
 
 ---
 
 ## Connect
 
-Twitter(X): https://x.com/esimitkarlgusta  
+[X Twitter](https://x.com/esimitkarlgusta)
