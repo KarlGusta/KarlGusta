@@ -1,4 +1,4 @@
-# Esimit Karlgusta
+# Karlgusta Esimit
 
 SaaS founder and Full Stack Developer building practical AI and financial automation tools. I create simple, scalable web applications that solve real business problems using modern JavaScript stacks and AI APIs.
 
