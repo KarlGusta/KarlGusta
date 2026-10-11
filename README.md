@@ -147,4 +147,4 @@ Platforms: Dev.to, Medium, Hashnode
 
 ## Connect
 
-[X Twitter](https://x.com/esimitkarlgusta)
+[X Twitter](https://x.com/thekarlesi)
