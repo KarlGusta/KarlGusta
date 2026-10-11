@@ -1,6 +1,6 @@
 # Esimit Karlgusta
 
-SaaS founder and MERN stack developer building practical AI and financial automation tools. I create simple, scalable web applications that solve real business problems using modern JavaScript stacks and AI APIs.
+SaaS founder and Full Stack Developer building practical AI and financial automation tools. I create simple, scalable web applications that solve real business problems using modern JavaScript stacks and AI APIs.
 
 ---
 
